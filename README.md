@@ -20,5 +20,5 @@ I am an Aspiring Full Stack Developer I play video games for recreation
 
 ### Badges
 <b>My GitHub Stats</b><br/>
-![Thejaswi4183's Stats](https://github-readme-stats.vercel.app/api?username=Thejaswi4183&theme=dark&show_icons=true&hide_border=true&count_private=true)
-![Thejaswi4183's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Thejaswi4183&theme=dark&show_icons=true&hide_border=true&layout=compact)
+![Thejaswi4183's Stats](https://github-readme-stats.vercel.app/api?username=Thejaswi4183&theme=highcontrast&show_icons=true&hide_border=true&count_private=true)
+![Thejaswi4183's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Thejaswi4183&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)
