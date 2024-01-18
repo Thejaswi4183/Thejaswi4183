@@ -19,9 +19,6 @@ I am an Aspiring Full Stack Developer I play video games for recreation
 <a href="http://www.instagram.com/_notvoid__" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a></p>
 
 ### Badges
-
-<b>My GitHub Stats</b>
-<p align="left">
-<a href="http://www.github.com/Thejaswi4183"><img src="https://github-readme-stats.vercel.app/api?username=Thejaswi4183&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Thejaswi4183's GitHub stats" /></a>
-
-<a href="https://github.com/Thejaswi4183" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thejaswi4183&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a></p>
+<b>My GitHub Stats</b><br/>
+![Thejaswi4183's Stats](https://github-readme-stats.vercel.app/api?username=Thejaswi4183&theme=dark&show_icons=true&hide_border=true&count_private=true)
+![Thejaswi4183's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Thejaswi4183&theme=dark&show_icons=true&hide_border=true&layout=compact)
