@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)<br/>
 ## I am Thejaswi
 
-## I am an Aspiring Full Stack Developer. I play video games for recreation
+## <ul><li>Inquisitive Programmer and an Aspiring Full Stack Developer. </li> <li>I play video games for recreation</li></ul>
 
 # Skills
 
