@@ -3,6 +3,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ## <ul><li>Inquisitive Programmer and an Aspiring Full Stack Developer. </li> <li>I play video games for recreation</li></ul>
 
+-  My portfolio **https://thejaswi-s-portfolio.vercel.app/**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
 # Skills
 
 <p align="left">
