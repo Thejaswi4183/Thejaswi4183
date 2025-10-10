@@ -15,7 +15,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <p align="left"> <a href="https://discord.com/users/586373273160253453" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32"/></a>
 <a href="https://www.youtube.com/@DefinitelyNotVoid" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a>
-<a href="http://www.instagram.com/_notvoid__" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a></p>
+<a href="https://www.instagram.com/_notvoid__" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
+<a href="https://www.linkedin.com/in/thejaswi-s-165b0a256/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="32" height="32"/></a>
+<a href="https://leetcode.com/u/thejaswi4uns/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"  width="32" height="32" /></a></p>
 
 # My GitHub Stats<br/>
 ![Thejaswi4183's Stats](https://github-readme-stats.vercel.app/api?username=Thejaswi4183&theme=highcontrast&show_icons=true&hide_border=true&count_private=true)
