@@ -1,9 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)<br/>
-## I am Thejaswi
+# I'm Thejaswi
 
-## <ul><li>Inquisitive Programmer and an Aspiring Full Stack Developer. </li> <li>I play video games for recreation</li></ul>
+An inquisitive programmer exploring full stack development and interactive experiences.
 
-## My portfolio : **https://thejaswi-s-portfolio.vercel.app/**
+Interested in philosophy, ideas, and continuous learning.
+
+🎮 Gamer4Life
 
 # Skills
 
