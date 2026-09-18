@@ -6,7 +6,7 @@ Interested in philosophy, ideas, and continuous learning.
 
 🎮 Gamer4Life
 
-# Skills
+# 🛠️ Skills
 
 [![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=for-the-badge)](https://www.oracle.com/java/)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)](https://www.python.org)
@@ -36,6 +36,16 @@ Interested in philosophy, ideas, and continuous learning.
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)](https://www.linux.org/)
 [![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?logo=adobepremierepro&logoColor=white&style=for-the-badge)](https://www.adobe.com/products/premiere.html)
 
-# Socials
+# 🌐 Socials
 
-[![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge)](https://discord.com/users/586373273160253453)&nbsp;[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge)](https://www.youtube.com/@DefinitelyNotVoid)&nbsp;[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/_notvoid__)&nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/thejaswi-s-165b0a256/)&nbsp;[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white&style=for-the-badge)](https://leetcode.com/u/thejaswi4uns/)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge)](https://discord.com/users/586373273160253453)&nbsp;[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge)](https://www.youtube.com/@DefinitelyNotVoid)&nbsp;[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/_notvoid__)&nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/thejaswi-s-165b0a256/)
+
+## 📊 LeetCode
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/thejaswi4uns?theme=dark&font=baloo&ext=heatmap)](https://leetcode.com/u/thejaswi4uns/)
+
+### 🏆 LeetCode Badges
+
+<a href="https://leetcode.com/u/thejaswi4uns/"><img src="https://assets.leetcode.com/static_assets/others/50_1080_1080.png" width="100" /></a>&nbsp;
+<a href="https://leetcode.com/u/thejaswi4uns/"><img src="https://assets.leetcode.com/static_assets/others/100_1080_1080.png" width="100" /></a>&nbsp;
+<a href="https://leetcode.com/u/thejaswi4uns/"><img src="https://assets.leetcode.com/static_assets/others/Top_100_Liked-1.png" width="100" /></a>&nbsp;
