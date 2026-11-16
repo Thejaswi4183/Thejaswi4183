@@ -49,3 +49,4 @@ Interested in philosophy, ideas, and continuous learning.
 <a href="https://leetcode.com/u/thejaswi4uns/"><img src="https://assets.leetcode.com/static_assets/others/50_1080_1080.png" width="100" /></a>&nbsp;
 <a href="https://leetcode.com/u/thejaswi4uns/"><img src="https://assets.leetcode.com/static_assets/others/100_1080_1080.png" width="100" /></a>&nbsp;
 <a href="https://leetcode.com/u/thejaswi4uns/"><img src="https://assets.leetcode.com/static_assets/others/Top_100_Liked-1.png" width="100" /></a>&nbsp;
+<a href="https://leetcode.com/u/thejaswi4uns/"><img src="https://assets.leetcode.com/static_assets/others/LeetCode_75.png" width="100" /></a>&nbsp;
